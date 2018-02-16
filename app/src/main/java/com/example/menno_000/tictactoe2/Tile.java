@@ -8,5 +8,7 @@ public enum Tile {
     BLANK,
     CROSS,
     CIRCLE,
-    INVALID
+    INVALID,
+    WIN1,
+    WIN2
 }
